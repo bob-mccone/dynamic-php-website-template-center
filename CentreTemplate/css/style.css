@@ -42,6 +42,7 @@
 #site-background #nav ul li {
     display: inline-block;
     text-align: center;
+    margin: 0 5px;
 }
 
 #site-background #nav ul li a {
