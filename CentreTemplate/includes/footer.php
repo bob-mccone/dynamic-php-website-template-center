@@ -21,7 +21,8 @@
                         <em>Friday - Saturday:</em>
                         10am - 2am<br>
                         <em>Sunday:</em>
-                        11am - 8pm
+                        11am - 8pm<br>
+                        <?php include('includes/index.php'); ?>
                     </div><!-- column-last -->
                 </div><!-- footer -->
                 <div id="copyright">
