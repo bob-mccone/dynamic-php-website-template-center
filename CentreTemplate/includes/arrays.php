@@ -10,12 +10,12 @@
                         title => "About"
                     ),
                     array(
-                        page => "menu.php",
-                        title => "Menu"
-                    ),
-                    array(
                         page => "team.php",
                         title => "Team"
+                    ),
+                    array(
+                        page => "menu.php",
+                        title => "Menu"
                     ),
                     array(
                         page => "contact.php",

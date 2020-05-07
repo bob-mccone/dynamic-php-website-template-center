@@ -20,7 +20,7 @@
 /* Header image */
 .main-image img {
     width: 900px;
-    height: 400px;
+    height: 450px;
 }
 
 #site-background .main-image a:hover {
@@ -150,5 +150,15 @@ hr {
 }
 
 #site-background #index-content h1 {
+    line-height: 40px;
+}
+
+/* About page content */
+#site-background #about-content {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+#site-background #about-content h1 {
     line-height: 40px;
 }
