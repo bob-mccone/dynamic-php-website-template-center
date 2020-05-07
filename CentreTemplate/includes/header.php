@@ -15,10 +15,11 @@
         <div class="content-container">
             <div class="main-image">
                 <a href="index.php" title="Return to home">
-                    <img src="img/burrito-chicken-delicious-dinner.png" alt="Real Good Food">
+                    <img src="img/burger.png" alt="Burger">
                 </a>
             </div><!-- main-image -->
             <div id="nav">
                 <?php include('includes/nav.php'); ?>
             </div><!-- nav -->
             <div class="page-content">
+                <hr>

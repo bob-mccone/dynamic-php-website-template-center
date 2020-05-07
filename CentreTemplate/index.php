@@ -5,15 +5,12 @@
 ?>
 
                 <div id="index-content">    
-                    <hr>
                     <h1>The Real Good Food Promise</h1>
                     <p>At Real Good Food we have a promise, to use only fresh organic food
                         that is actually good for you and not pumped full of nasties. We know 
                         where our food comes from and we check regularly that our suppliers 
                         still follow our standards.</p>
                     <p>We want to treat you like royalty, because you deserve the best.</p>
-                    </p>
-                    <hr>
                 </div><!-- index-content -->
 
 <!-- Footer -->

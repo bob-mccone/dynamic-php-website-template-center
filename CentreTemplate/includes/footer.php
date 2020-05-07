@@ -1,3 +1,4 @@
+                <hr>
                 <div id="footer">
                     <div class="column-left">
                         <strong>Where to find us:</strong>
