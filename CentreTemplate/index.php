@@ -4,7 +4,7 @@
     include('includes/header.php');
 ?>
 
-                <div id="index-content">    
+                <div id="index-content" class="content">    
                     <h1>The Real Good Food Promise</h1>
                     <p>At Real Good Food we have a promise, to use only fresh organic food
                         that is actually good for you and not pumped full of nasties. We know 

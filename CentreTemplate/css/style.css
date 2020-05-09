@@ -142,23 +142,38 @@ hr {
 
 /*                      Content stuff for each page                      */
 
-/* Index page content */
-#site-background #index-content {
+/* Content for each page */
+#site-background .content {
     text-align: center;
     font-size: 20px;
     line-height: 25px;
 }
 
-#site-background #index-content h1 {
+#site-background .content h1 {
     line-height: 40px;
 }
 
-/* About page content */
-#site-background #about-content {
-    font-size: 20px;
-    line-height: 25px;
+/*                              Team page                               */
+/* Picture of team member */
+#site-background #member-portrait {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 10px;
 }
 
-#site-background #about-content h1 {
-    line-height: 40px;
+#site-background #member-details {
+    width: 590px;
+    margin-top: -190px;
+    float: right;
+    text-align: justify;
+}
+
+#site-background #member-details p {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+#site-background #member-details h2 {
+    font-size: 25px;
+    line-height: 32px;
 }
