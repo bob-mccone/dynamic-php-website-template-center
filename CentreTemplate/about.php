@@ -9,7 +9,7 @@
     $operatingTime = ($todaysDate - $startDate);
 ?>
 
-    <div id="about-content">
+    <div id="about-content" class="content">
         <h1>The story</h1>
         <p>Here at real good food we have a story that started it all. It 
         was back in the good old days of 2002 (that's <?php echo $operatingTime; ?> years 
@@ -22,7 +22,7 @@
         grew from there, the food cart was providing popular so the idea 
         of opening a resturant came to light, Doug just needed a team to help 
         him operate it.</p>
-    </div>
+    </div><!-- about-content -->
 
 <?php
     include('includes/footer.php');
